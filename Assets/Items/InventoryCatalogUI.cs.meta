@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2d141fab8e11dc34ab17a9a62b426dbd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - database: {fileID: 11400000, guid: aa7cf485cca203c4898374d972df5a57, type: 2}
+  - contentParent: {instanceID: 0}
+  - itemButtonPrefab: {instanceID: 0}
+  - detailIcon: {instanceID: 0}
+  - detailName: {instanceID: 0}
+  - detailDamage: {instanceID: 0}
+  - detailSpeed: {instanceID: 0}
+  - detailMaxDistance: {instanceID: 0}
+  - detailHpIncrease: {instanceID: 0}
+  - detailDamageReduction: {instanceID: 0}
+  - lockBadge: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

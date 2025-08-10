@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/deathscreen.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/level1.unity
+    guid: 5db4ccde6f06f6a40acf9e58650b08c9
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: 0eef5b9a668a9954fb36fca8999705ae
+  - enabled: 1
+    path: Assets/Scenes/level2.unity
+    guid: 41bf699cf0ae6c043bd4e084ddd6a22d
+  - enabled: 1
+    path: Assets/Scenes/level3.unity
+    guid: 37a2cbc98f08f27409987594fb229854
+  - enabled: 1
+    path: Assets/Scenes/level4.unity
+    guid: f93973eca6f334299807cdf45e839af8
+  - enabled: 1
+    path: Assets/Scenes/level5.unity
+    guid: 3d59d3cf7f8888d488adc6f341826cbd
+  - enabled: 1
+    path: Assets/Scenes/level6.unity
+    guid: fdad3f8b372639244af63f53d112d930
+  - enabled: 1
+    path: Assets/Scenes/survival.unity
+    guid: 1e2efca088c26da48a39422d83e93344
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

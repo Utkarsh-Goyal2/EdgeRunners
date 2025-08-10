@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f50e97149f2b5c649b4d19b51a76bd11
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - youLostPanel: {instanceID: 0}
+  - hpFillImage: {instanceID: 0}
+  - youWonPanel: {instanceID: 0}
+  - gunHolder: {instanceID: 0}
+  - gunPrefab: {instanceID: 0}
+  - bulletSpawnPoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
