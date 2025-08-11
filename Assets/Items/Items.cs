@@ -8,10 +8,13 @@ public class Items : ScriptableObject
     public string itemName;
     public Sprite icon;
 
-
     [Header("Type")]
     public ItemType itemType = ItemType.Gun;
     public enum ItemType { Gun, Armor, Other }
+
+    [Header("Armor Subtype (only if Armor)")]
+    public ArmorSubtype armorSubtype = ArmorSubtype.Helmet;
+    public enum ArmorSubtype { Helmet, Chestplate, Leggings, Boots }
 
     [Header("Gun Stats (only if Gun)")]
     public GameObject bulletPrefab;
@@ -20,10 +23,12 @@ public class Items : ScriptableObject
     public float bulletMaxDistance;
     public float gunCoolDown;
     public float sizeMultiplier = 1f;
+
     [Header("Armor Stats (only if Armor)")]
     public float hpIncreaseFlat;        // e.g., +25 HP
     [Range(0, 1f)]
     public float damageReductionPct;    // e.g., 0.2 means 20% reduction
+
     [Header("Progression")]
     public int requiredLevel = 0;
 

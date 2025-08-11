@@ -6,9 +6,16 @@ public class Database : ScriptableObject
 {
     public List<Items> allItems = new List<Items>();
 
-    
-public Items GetById(string id)
+
+    // Add this method to your Database class
+    public Items GetItemById(string itemId)
     {
-        return allItems.Find(i => i != null && i.itemId == id);
+        foreach (var item in allItems)
+        {
+            if (item != null && item.itemId == itemId)
+                return item;
+        }
+        return null;
     }
+
 }

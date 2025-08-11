@@ -16,11 +16,12 @@ MonoBehaviour:
   itemName: Handgun
   icon: {fileID: 21300000, guid: 24db8b1e40da92c4199a81a20bf8ecfe, type: 3}
   itemType: 0
+  armorSubtype: 0
   bulletPrefab: {fileID: 7653563433621540344, guid: 4e5645659c6c4154ca8f7bea6f5495d6, type: 3}
   bulletDamage: 10
   bulletSpeed: 10
   bulletMaxDistance: 20
-  gunCoolDown: 1
+  gunCoolDown: 0.5
   sizeMultiplier: 1
   hpIncreaseFlat: 0
   damageReductionPct: 0

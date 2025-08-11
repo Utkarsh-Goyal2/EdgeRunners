@@ -161,10 +161,10 @@ MonoBehaviour:
   mobManager: {fileID: 0}
   bulletPrefab: {fileID: 7653563433621540344, guid: a2d2041a04a2b4646b6cd99c07dd64aa, type: 3}
   firePoint: {fileID: 7684985231308682334}
-  fireCooldown: 1
+  fireCooldown: 2
   bulletSpeed: 7
   bulletDamage: 5
-  maxBulletDistance: 15
+  maxBulletDistance: 10
   obstacleLayer:
     serializedVersion: 2
     m_Bits: 64

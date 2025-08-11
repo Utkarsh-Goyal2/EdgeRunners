@@ -16,6 +16,7 @@ MonoBehaviour:
   itemName: Boots
   icon: {fileID: 21300034, guid: 03dd1ef6fb163214c9e1ac0242dab3ba, type: 3}
   itemType: 1
+  armorSubtype: 3
   bulletPrefab: {fileID: 0}
   bulletDamage: 0
   bulletSpeed: 0

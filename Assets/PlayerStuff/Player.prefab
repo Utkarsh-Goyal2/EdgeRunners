@@ -190,14 +190,14 @@ MonoBehaviour:
   crouchingspeed: 2
   jumpForce: 7
   jumpcooldown: 1.5
-  maxhp: 100
-  hp: 100
   youLostPanel: {fileID: 0}
   hpFillImage: {fileID: 0}
   youWonPanel: {fileID: 0}
   gunHolder: {fileID: 3036796559889510240}
-  gunPrefab: {fileID: 704193966039292415, guid: fbc48d861eb7dd24ebb191fab0e9c205, type: 3}
+  database: {fileID: 11400000, guid: aa7cf485cca203c4898374d972df5a57, type: 2}
+  inGameInventory: {fileID: 0}
   bulletSpawnPoint: {fileID: 8913909102299610224}
+  weaponSwitchCooldown: 2
 --- !u!70 &1082446656643256923
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
