@@ -9,11 +9,11 @@ EditorBuildSettings:
     path: Assets/Scenes/deathscreen.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
-    path: Assets/Scenes/level1.unity
-    guid: 5db4ccde6f06f6a40acf9e58650b08c9
-  - enabled: 1
     path: Assets/Scenes/Home.unity
     guid: 0eef5b9a668a9954fb36fca8999705ae
+  - enabled: 1
+    path: Assets/Scenes/level1.unity
+    guid: 5db4ccde6f06f6a40acf9e58650b08c9
   - enabled: 1
     path: Assets/Scenes/level2.unity
     guid: 41bf699cf0ae6c043bd4e084ddd6a22d

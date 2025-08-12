@@ -10,19 +10,19 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 618aeca1b8e3e8b46ba113eca85fc6f9, type: 3}
-  m_Name: shotgun
+  m_Name: shotgun 2
   m_EditorClassIdentifier: 
-  itemId: 9
-  itemName: Shotgun
-  icon: {fileID: 21300000, guid: 3f83467495e7ee742acbd52a1a15b77e, type: 3}
+  itemId: 10
+  itemName: heavy shotgun
+  icon: {fileID: 21300000, guid: ac6b3eac93bfa194eb9702c3085d5751, type: 3}
   itemType: 0
-  armorSubtype: 0
+  armorSubtype: 1
   bulletPrefab: {fileID: 7653563433621540344, guid: c6d768601284de84d90ea6c1988952c7, type: 3}
-  bulletDamage: 25
+  bulletDamage: 50
   bulletSpeed: 20
-  bulletMaxDistance: 2
-  gunCoolDown: 2
+  bulletMaxDistance: 1
+  gunCoolDown: 4
   sizeMultiplier: 0.8
   hpIncreaseFlat: 0
   damageReductionPct: 0
-  requiredLevel: 3
+  requiredLevel: 5
