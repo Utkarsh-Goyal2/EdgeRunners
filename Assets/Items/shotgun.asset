@@ -22,7 +22,7 @@ MonoBehaviour:
   bulletSpeed: 20
   bulletMaxDistance: 2
   gunCoolDown: 2
-  sizeMultiplier: 0.8
+  sizeMultiplier: 0.6
   hpIncreaseFlat: 0
   damageReductionPct: 0
   requiredLevel: 3

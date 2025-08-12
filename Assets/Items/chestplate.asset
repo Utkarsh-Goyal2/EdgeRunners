@@ -24,5 +24,5 @@ MonoBehaviour:
   gunCoolDown: 0
   sizeMultiplier: 0
   hpIncreaseFlat: 50
-  damageReductionPct: 0.3
+  damageReductionPct: 0.15
   requiredLevel: 6

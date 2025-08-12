@@ -18,7 +18,7 @@ MonoBehaviour:
   itemType: 0
   armorSubtype: 1
   bulletPrefab: {fileID: 7653563433621540344, guid: c6d768601284de84d90ea6c1988952c7, type: 3}
-  bulletDamage: 50
+  bulletDamage: 60
   bulletSpeed: 20
   bulletMaxDistance: 1
   gunCoolDown: 4

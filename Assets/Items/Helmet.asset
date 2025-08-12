@@ -16,12 +16,13 @@ MonoBehaviour:
   itemName: Helmet
   icon: {fileID: 21300026, guid: 03dd1ef6fb163214c9e1ac0242dab3ba, type: 3}
   itemType: 1
+  armorSubtype: 0
   bulletPrefab: {fileID: 0}
   bulletDamage: 0
   bulletSpeed: 0
   bulletMaxDistance: 0
   gunCoolDown: 0
   sizeMultiplier: 0
-  hpIncreaseFlat: 50
-  damageReductionPct: 0.1
+  hpIncreaseFlat: 20
+  damageReductionPct: 0.05
   requiredLevel: 4

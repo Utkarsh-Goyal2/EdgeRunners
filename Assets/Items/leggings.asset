@@ -23,6 +23,6 @@ MonoBehaviour:
   bulletMaxDistance: 0
   gunCoolDown: 0
   sizeMultiplier: 0
-  hpIncreaseFlat: 50
-  damageReductionPct: 0.2
+  hpIncreaseFlat: 30
+  damageReductionPct: 0.1
   requiredLevel: 5

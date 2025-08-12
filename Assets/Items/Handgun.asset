@@ -20,7 +20,7 @@ MonoBehaviour:
   bulletPrefab: {fileID: 7653563433621540344, guid: 4e5645659c6c4154ca8f7bea6f5495d6, type: 3}
   bulletDamage: 10
   bulletSpeed: 10
-  bulletMaxDistance: 20
+  bulletMaxDistance: 15
   gunCoolDown: 0.5
   sizeMultiplier: 1
   hpIncreaseFlat: 0
